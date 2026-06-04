@@ -28,6 +28,8 @@ That's it — you don't have to name the skill. Claude picks it up and opens wit
 
 Using **Claude Code** instead? See [INSTALL.md](INSTALL.md) for the folder-copy method.
 
+📖 **Want the deep dive?** [GUIDE.md](GUIDE.md) explains exactly how it works and how to get the most out of every session.
+
 ---
 
 ## How it coaches you
