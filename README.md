@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/cover.png" alt="Alex Hormozi Coach — Clarity. Confidence. Scale." width="280">
+</div>
+
 # Alex Hormozi Coach 📞
 
 **A free Claude skill from [Mahan AI](https://instagram.com/mahanaicoach).**
