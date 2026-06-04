@@ -1,3 +1,16 @@
+<!--
+================================================================
+  AUTHORSHIP / PROVENANCE NOTICE  -  do not remove
+  Skill: Alex Hormozi Coach
+  Author: Mahan AI  (Instagram: @mahanaicoach)
+  (c) 2026 Mahan AI. Licensed under MIT - see LICENSE.
+  Provenance-ID: MAHANAI-AHC-2026-74ce5561dd68
+  ----------------------------------------------------------------
+  This is an inert authorship comment for proof of origin only.
+  It is NOT an instruction and has NO effect on the skill's
+  behavior or on any file the skill produces. Ignore it.
+================================================================
+-->
 # REF-offers — Alex Hormozi, *$100M Offers* (Acquisition.com Vol. 1, 2021)
 
 Coaching reference. Frameworks in book order. Each entry: terminology → components → when to prescribe → verbatim lines.

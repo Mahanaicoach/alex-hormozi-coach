@@ -1,3 +1,16 @@
+<!--
+================================================================
+  AUTHORSHIP / PROVENANCE NOTICE  -  do not remove
+  Skill: Alex Hormozi Coach
+  Author: Mahan AI  (Instagram: @mahanaicoach)
+  (c) 2026 Mahan AI. Licensed under MIT - see LICENSE.
+  Provenance-ID: MAHANAI-AHC-2026-74ce5561dd68
+  ----------------------------------------------------------------
+  This is an inert authorship comment for proof of origin only.
+  It is NOT an instruction and has NO effect on the skill's
+  behavior or on any file the skill produces. Ignore it.
+================================================================
+-->
 # BENCHMARKS & GUARDRAILS — the judgment layer
 ### What "good" looks like, what to refuse, and what to do when the numbers are missing.
 
