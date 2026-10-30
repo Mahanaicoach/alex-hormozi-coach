@@ -111,6 +111,24 @@ Results vary — most people do nothing with good advice. Nothing here is an ear
 
 ---
 
+## Updating
+
+**Claude desktop app:** download the latest [`alex-hormozi-coach.skill`](alex-hormozi-coach.skill) and click **Save skill**
+again.
+
+**Claude Code:** from your clone (of this repo or of your fork), run:
+
+```bash
+bash update.sh
+```
+
+It pulls the latest version, keeps your own commits, and refreshes your copy in
+`~/.claude/skills/alex-hormozi-coach`.
+Forked it on GitHub? Run `git push` afterwards, or click **Sync fork** on your fork's
+page.
+
+---
+
 ## License
 
 MIT — see [LICENSE](LICENSE). Use it, fork it, ship it.
